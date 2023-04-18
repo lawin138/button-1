@@ -51,9 +51,9 @@ box-sizing:border-box;
 	width:70px;
 	height:70px;
 	border-radius:50%;
-	background-image: -webkit-linear-gradient(bottom left,white,#363636);
+	background-image: -webkit-linear-gradient(bottom left,#ffffff,#363636);
 	box-shadow:0 0 5px 0 rgba(0,0,0,o.5)inset, 2px 3px 5px 0 rgba(0,0,0,0.5);
-	border:1px solid rgb(130,130,130,); 
+	border:1px solid #828282; 
 }
 .buttonA a p{
 	font-size: 16px;
@@ -62,11 +62,11 @@ box-sizing:border-box;
 	margin-top: 27px;
 	letter-spacing: 2px;
 	font-weight: bold;
-	color:rgb(192, 21,133)
+	color:#c01585
 }
 .buttonA a{
     text-decoration:none;
 }
  .button a:hover{
-	color:blue;
+	color:#0000ff;
 }
